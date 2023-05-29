@@ -349,6 +349,23 @@ __metadata:
   languageName: node
   linkType: hard
 
+"belphegor@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "belphegor@workspace:."
+  dependencies:
+    "@types/three": ^0.149.0
+    husky: ^8.0.3
+    lil-gui: ^0.18.1
+    lint-staged: ^13.2.0
+    prettier: 2.8.6
+    sass: ^1.59.3
+    three: ^0.150.1
+    typescript: ^5.0.2
+    vite: ^4.2.1
+    vite-plugin-glsl: ^1.1.2
+  languageName: unknown
+  linkType: soft
+
 "binary-extensions@npm:^2.0.0":
   version: 2.2.0
   resolution: "binary-extensions@npm:2.2.0"
@@ -1833,23 +1850,6 @@ __metadata:
   checksum: b12a92a681a30e62640d90bdf074d039c05d8294ad40f437e7e1807ce0e698ad6728878a1e72dad22bf05d7a359843ecea8739d05f2f13143bc3a4ecdfdbdd7b
   languageName: node
   linkType: hard
-
-"threejs-ts-starter@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "threejs-ts-starter@workspace:."
-  dependencies:
-    "@types/three": ^0.149.0
-    husky: ^8.0.3
-    lil-gui: ^0.18.1
-    lint-staged: ^13.2.0
-    prettier: 2.8.6
-    sass: ^1.59.3
-    three: ^0.150.1
-    typescript: ^5.0.2
-    vite: ^4.2.1
-    vite-plugin-glsl: ^1.1.2
-  languageName: unknown
-  linkType: soft
 
 "through@npm:^2.3.8":
   version: 2.3.8

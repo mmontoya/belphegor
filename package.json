@@ -1,10 +1,10 @@
 {
-  "name": "threejs-ts-starter",
+  "name": "belphegor",
   "version": "0.1.0",
-  "description": "Simple starter for Three.js projects with TypeScript",
+  "description": "A threeJS game",
   "main": "index.html",
-  "repository": "https://github.com/mayacoda/simple-threejs-typescript-starter",
-  "author": "Maya Nedeljković Batić",
+  "repository": "https://ghttps://github.com/mmontoya/belphegor",
+  "author": "Michael & Bruno Montoya",
   "license": "MIT",
   "scripts": {
     "dev": "vite",
